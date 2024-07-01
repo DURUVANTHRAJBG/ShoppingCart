@@ -26,7 +26,7 @@ This is a straightforward shopping cart application developed with React. Users 
 1. **Clone the Repository:** `git clone <repository-url>`
 2. **Install Dependencies:** `npm install`
 3. **Run the Application:** `npm start`
-4. **Visit the Application:** Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
+4. **Visit the Application:** Open your browser and navigate to http://localhost:5173
 
 ## Usage
 
